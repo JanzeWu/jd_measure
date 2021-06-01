@@ -28,5 +28,5 @@ sql==0.4.0
 SQLAlchemy==1.1.15
 thrift==0.11.0
 thrift-sasl==0.3.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.13
