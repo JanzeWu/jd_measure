@@ -11,7 +11,7 @@
 
     <properties>
         <spring.version>4.3.5.RELEASE</spring.version>
-        <hadoop.version>2.7.3</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
     </properties>
 
     <repositories>
